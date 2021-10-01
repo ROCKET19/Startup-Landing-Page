@@ -1,3 +1,3 @@
 # Startup-Landing-Page
 
-##This repo features a startup landing pager
+##This repo features a startup landing page
